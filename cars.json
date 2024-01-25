@@ -11,16 +11,6 @@
   },
   {
     "type": "Sedan",
-    "brand": "Volkswagen",
-    "model": "Passat",
-    "doors": 5,
-    "gasType": "Diesel",
-    "color": "Silver",
-    "isNew": false,
-    "horsepower": 140
-  },
-  {
-    "type": "Sedan",
     "brand": "Toyota",
     "model": "Camry",
     "doors": 4,
@@ -28,16 +18,6 @@
     "color": "Silver",
     "isNew": false,
     "horsepower": 180
-  },
-  {
-    "type": "Hatchback",
-    "brand": "Toyota",
-    "model": "Yaris",
-    "doors": 3,
-    "gasType": "Petrol",
-    "color": "Red",
-    "isNew": true,
-    "horsepower": 70
   },
   {
     "type": "Hatchback",
@@ -80,6 +60,26 @@
     "horsepower": 350
   },
   {
+    "type": "Hatchback",
+    "brand": "Toyota",
+    "model": "Yaris",
+    "doors": 3,
+    "gasType": "Petrol",
+    "color": "Red",
+    "isNew": true,
+    "horsepower": 70
+  },
+  {
+    "type": "Sedan",
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "doors": 5,
+    "gasType": "Diesel",
+    "color": "Silver",
+    "isNew": false,
+    "horsepower": 140
+  },
+  {
     "type": "Truck",
     "brand": "Chevrolet",
     "model": "Silverado",
@@ -108,6 +108,16 @@
     "color": "Green",
     "isNew": true,
     "horsepower": 160
+  },
+  {
+    "type": "Hatchback",
+    "brand": "Kia",
+    "model": "Rio",
+    "doors": 2,
+    "gasType": "Electric",
+    "color": "Silver",
+    "isNew": true,
+    "horsepower": 75
   },
   {
     "type": "Sedan",
@@ -140,6 +150,16 @@
     "horsepower": 180
   },
   {
+    "type": "SUV",
+    "brand": "Mercedes-Benz",
+    "model": "GLE",
+    "doors": 5,
+    "gasType": "Diesel",
+    "color": "Yellow",
+    "isNew": true,
+    "horsepower": 250
+  },
+  {
     "type": "Truck",
     "brand": "Ram",
     "model": "1500",
@@ -160,16 +180,6 @@
     "horsepower": 220
   },
   {
-    "type": "Sedan",
-    "brand": "Audi",
-    "model": "E tron",
-    "doors": 5,
-    "gasType": "Hybrid",
-    "color": "Blue",
-    "isNew": true,
-    "horsepower": 370
-  },
-  {
     "type": "SUV",
     "brand": "Kia",
     "model": "Sportage",
@@ -188,6 +198,16 @@
     "color": "Orange",
     "isNew": true,
     "horsepower": 140
+  },
+  {
+    "type": "Sedan",
+    "brand": "Audi",
+    "model": "E tron",
+    "doors": 5,
+    "gasType": "Hybrid",
+    "color": "Blue",
+    "isNew": true,
+    "horsepower": 370
   },
   {
     "type": "Hatchback",
